@@ -1,0 +1,2 @@
+Precedence determines how operators are grouped in a compound expression.
+Associativity determines how operators at the same precedence level are grouped.
